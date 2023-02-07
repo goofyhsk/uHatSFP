@@ -1,6 +1,6 @@
 # SFP 'Info'
 
-![](https://github.com/goofyhsk/uHatSFP/SFP_20_Pins.png)
+![SFP Pinout](https://github.com/goofyhsk/uHatSFP/SFP_20_Pins.png)
 
 
 * 4 - MOD-DEF2 >[^3] 2 Wire Serial ID Interface > GPIO02 SDA1

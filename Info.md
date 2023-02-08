@@ -13,3 +13,10 @@ Section IV for further details).
 Mod-Def 0 is grounded by the module to indicate that the module is present  
 Mod-Def 1 is the clock line of two wire serial interface for serial ID  
 Mod-Def 2 is the data line of two wire serial interface for serial ID  
+
+* SFF-8071 SFP+ 1X 0.8mm Card Edge Connector
+* SFF-8418 SFP+ High Speed Electrical Interface
+* SFF-8419 SFP+ Low Speed Electrical Interface
+* SFF-8432 SFP+ Module and Cage
+* SFF-8433 SFP+ Ganged Cage Footprints and Bezel Openings
+* SFF-8472 SFP+ Management Interface 

@@ -1,0 +1,10 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C1,1206,1,100nF,
+GPIO1,PinSocket_2x20_P2.54mm_Vertical,1,GPIO,
+"H1, H2, H3",MountingHole_2.7mm_M2.5,3,MountingHole,
+I2C1,PinHeader_1x04_P2.54mm_Horizontal,1,Conn_01x04,
+R1,1206,1,10K,
+R2,1206,1,10K,
+R3,1206,1,10K,
+SFP1,SAMTEC_MECT-110-01-M-D-RA1,1,SFP+,
+SFP2,SAMTEC_SFPC-SL,1,SFPC-SL,

@@ -11,4 +11,5 @@
 * https://github.com/sonicepk/sfppi
 * http://eoinpk.blogspot.com/2014/05/raspberry-pi-and-programming-eeproms-on.html
 * https://hackaday.com/2021/02/13/experiment-with-sfp-modules-with-this-handy-breakout/
+* https://oshwlab.com/ibjessup/sfp-breakout
 * 
